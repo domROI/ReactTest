@@ -1,0 +1,23 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "name": "Joe",
+            "username": "joe"
+        }
+    ],
+    "posts": [
+        {
+            "id": "1",
+            "title": "The Art of Yoga",
+            "userId": "1",
+            "details": "Lorem ipsum dolor sit amet, est ad lorem aliquip philosophia, te solum invenire posidonium pro, qui populo alienum delicata ad. Cum vocent deserunt consequat te. Amet dicunt suscipit in eum. Id denique abhorreant vis. Omnes definitionem duo no. Natum mucius reprimique te cum, ad his primis theophrastus, eros erant euismod sed ne. Audire nominati has cu, eos nostrud recusabo id, duo ad dico oblique concludaturque."
+        },
+        {
+            "id": "2",
+            "title": "Driving Instructions",
+            "userId": "1",
+            "details": "Lorem ipsum dolor sit amet, est ad lorem aliquip philosophia, te solum invenire posidonium pro, qui populo alienum delicata ad. Cum vocent deserunt consequat te. Amet dicunt suscipit in eum. Id denique abhorreant vis. Omnes definitionem duo no. Natum mucius reprimique te cum, ad his primis theophrastus, eros erant euismod sed ne. Audire nominati has cu, eos nostrud recusabo id, duo ad dico oblique concludaturque."
+        }
+    ]
+}
