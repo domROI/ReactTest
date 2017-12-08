@@ -33,6 +33,8 @@ The steps that are required would be completed to:
 * code a http server using a javascript framework of your choosing
     * serve web application
 
+Create-React-App can also be used to complete this test. Please amended the package.json file to include a script to launch the json server.
+
 All react code should be added to the `public\src` folder and index.js has been created for server side code.
 
 Please ensure that all packages installed are saved to the package.json using `npm install <package> --save` and your working solution to be uploaded to a github repository that is externally accessible.
