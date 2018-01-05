@@ -1,5 +1,9 @@
 # ROI Ltd Technical Test
 
+This test is intended to test your ability to create a web application that will interact with an external restful service.
+
+We are looking for concise, clean, well commented code and that you have chosen the right tools for the right job. We will also be looking at your app structure as a whole.
+
 ## Blogger.
 
 Application to read blog posts, and when logged into the application you can create/edit/delete posts.
